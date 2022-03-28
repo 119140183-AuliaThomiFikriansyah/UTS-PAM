@@ -1,3 +1,2 @@
 # UTS-PAM
-Nama : Aulia Thomi Fikriansyah
-NIM  : 119140183
+Aulia Thomi Fikriansyah - 119140183
